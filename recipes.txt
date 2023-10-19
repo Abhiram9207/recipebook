@@ -1,0 +1,6 @@
+recipe name :biriyani
+incredience :
+      rice 1kg
+      onion 1kg
+      ghee  200g
+      chicken 2kg
